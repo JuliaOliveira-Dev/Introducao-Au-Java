@@ -25,7 +25,7 @@ public class LacoDecisao {
         
         System.out.printf("\n Média: %.2f", media);
            
-           if(media>7  &&media<=10) {
+           if(media>=7  &&media<=10) {
         	   System.out.println("\nParabéns, você foi aprovade!!");
            }   
            else if (media>=5 && media<7) {
